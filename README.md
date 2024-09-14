@@ -4,7 +4,7 @@ Para esto, debes tener instalado Laravel, PHP y Composer.
 
 1. Situarse en la carpeta donde deseamos crear nuestro proyecto y abrir una terminal.
 2. Ejecutar:
-   `composer create-project laravel/laravel laravel-nombreDelProyecto`
+   `composer create-project laravel/laravel nombreDelProyecto`
 3. Abrir el proyecto VSC o el IDE de tu preferencia y ejecutar:
    `php artisan serve`
    Esto genera un servidor en vivo, es decir que cuando haya un cambio, se va a reiniciar automáticamente.
